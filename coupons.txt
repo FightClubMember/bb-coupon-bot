@@ -1,0 +1,5 @@
+# Add your coupon codes here
+BBLUV100
+BBFLAT200
+WELCOME50
+FESTIVE100
